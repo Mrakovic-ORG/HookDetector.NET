@@ -6,6 +6,8 @@ namespace Hook_Detector
 {
     public class HookDetector
     {
+        public static readonly string Version = "1.0";
+
         public HookDetector(string moduleName, bool is32Bits = true)
         {
             this.ModuleName = moduleName;
