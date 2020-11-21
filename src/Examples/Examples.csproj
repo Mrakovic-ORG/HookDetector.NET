@@ -52,7 +52,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Hook Detector.NET\Hook Detector.csproj">
+    <ProjectReference Include="..\HookDetector.NET\HookDetector.csproj">
       <Project>{4ee70a30-c5f4-4884-bb9c-2a5d19120eb4}</Project>
       <Name>Hook Detector</Name>
     </ProjectReference>
